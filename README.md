@@ -38,7 +38,7 @@ ls
 cd Cython
 
 python2 ProMax-enc.py
-#
+#PAID COMMAND 🐬👩‍💻
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/xxxxx.58)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2349055012862?text=pleasehelpme+bang) <br><br>
